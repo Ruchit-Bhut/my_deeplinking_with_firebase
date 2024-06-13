@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.notification.my_notification",
+      "sha256_cert_fingerprints": [
+        "45:98:28:77:ED:6F:AF:1E:11:2E:C1:C1:30:A8:E5:20:56:EC:7C:8C:F4:9A:35:63:2F:02:F8:46:35:05:6B:9F"
+      ]
+    }
+  }
+]

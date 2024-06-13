@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "notification-fc948",
+          "appId": "1:900694066206:android:1b17ab579f20d72bb39a0f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "notification-fc948",
+          "configurations": {
+            "android": "1:900694066206:android:1b17ab579f20d72bb39a0f",
+            "ios": "1:900694066206:ios:8a35a6bc5c2f0342b39a0f",
+            "windows": "1:900694066206:web:f6b86860f0d04489b39a0f"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
